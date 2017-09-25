@@ -1,0 +1,421 @@
+# Translations template for pyload.core.
+# Copyright (C) 2017 ORGANIZATION
+# This file is distributed under the same license as the pyload.core
+# project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: pyload.core 0.6.2\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2017-08-07 23:22+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: src/pyload/core/init.py:193
+msgid "Unable to change gid"
+msgstr ""
+
+#: src/pyload/core/init.py:200
+msgid "Unable to change uid"
+msgstr ""
+
+#: src/pyload/core/init.py:224
+msgid "Unable to load `{0}` language, use default `{1}`"
+msgstr ""
+
+#: src/pyload/core/init.py:289
+msgid "Restored default login credentials `admin|pyload`"
+msgstr ""
+
+#: src/pyload/core/init.py:415
+msgid "Available storage space: {0}"
+msgstr ""
+
+#: src/pyload/core/init.py:433
+msgid "Activating accounts ..."
+msgstr ""
+
+#: src/pyload/core/init.py:439
+msgid "Welcome to pyLoad v{0}"
+msgstr ""
+
+#: src/pyload/core/init.py:441
+msgid "Profile: {0}"
+msgstr ""
+
+#: src/pyload/core/init.py:442
+msgid "Config directory: {0}"
+msgstr ""
+
+#: src/pyload/core/init.py:466
+msgid "pyLoad is up and running"
+msgstr ""
+
+#: src/pyload/core/init.py:502
+msgid "Restarting pyLoad ..."
+msgstr ""
+
+#: src/pyload/core/init.py:537
+msgid "Exiting pyLoad ..."
+msgstr ""
+
+#: src/pyload/core/init.py:554
+msgid "Starting pyLoad ..."
+msgstr ""
+
+#: src/pyload/core/init.py:562
+msgid "Stopping pyLoad ..."
+msgstr ""
+
+#: src/pyload/core/api/core.py:41
+msgid "SSL key or certificate not found"
+msgstr ""
+
+#: src/pyload/core/api/download.py:53
+msgid "Added package {0} as folder {1}"
+msgstr ""
+
+#: src/pyload/core/api/download.py:111
+msgid "Added {0:d} links to package #{0:d}"
+msgstr ""
+
+#: src/pyload/core/api/init.py:161
+msgid "User '{0}' tries to log in"
+msgstr ""
+
+#: src/pyload/core/database/backend.py:177
+msgid "Database was deleted due to incompatible version"
+msgstr ""
+
+#: src/pyload/core/manager/account.py:44
+msgid "Account plugin {0} not available"
+msgstr ""
+
+#: src/pyload/core/manager/account.py:69
+msgid "Could not load account {0}"
+msgstr ""
+
+#: src/pyload/core/manager/addon.py:75
+msgid "Error when executing {0}"
+msgstr ""
+
+#: src/pyload/core/manager/addon.py:127
+msgid "Failed activating {0}"
+msgstr ""
+
+#: src/pyload/core/manager/addon.py:131
+msgid "Activated addons: {0}"
+msgstr ""
+
+#: src/pyload/core/manager/addon.py:132
+msgid "Deactivated addons: {0}"
+msgstr ""
+
+#: src/pyload/core/manager/addon.py:196
+msgid "Activating addons ..."
+msgstr ""
+
+#: src/pyload/core/manager/addon.py:208
+msgid "Deactivating addons ..."
+msgstr ""
+
+#: src/pyload/core/manager/exchange.py:85
+msgid "Query"
+msgstr ""
+
+#: src/pyload/core/manager/exchange.py:112
+msgid "Captcha request"
+msgstr ""
+
+#: src/pyload/core/manager/exchange.py:112
+msgid "Please solve the captcha"
+msgstr ""
+
+#: src/pyload/core/manager/file.py:50
+msgid "none"
+msgstr ""
+
+#: src/pyload/core/manager/file.py:51
+msgid "offline"
+msgstr ""
+
+#: src/pyload/core/manager/file.py:52
+msgid "online"
+msgstr ""
+
+#: src/pyload/core/manager/file.py:53
+msgid "queued"
+msgstr ""
+
+#: src/pyload/core/manager/file.py:54
+msgid "paused"
+msgstr ""
+
+#: src/pyload/core/manager/file.py:55
+msgid "finished"
+msgstr ""
+
+#: src/pyload/core/manager/file.py:56
+msgid "skipped"
+msgstr ""
+
+#: src/pyload/core/manager/file.py:57
+msgid "failed"
+msgstr ""
+
+#: src/pyload/core/manager/file.py:58
+msgid "starting"
+msgstr ""
+
+#: src/pyload/core/manager/file.py:59
+msgid "waiting"
+msgstr ""
+
+#: src/pyload/core/manager/file.py:60
+msgid "downloading"
+msgstr ""
+
+#: src/pyload/core/manager/file.py:61
+msgid "temp. offline"
+msgstr ""
+
+#: src/pyload/core/manager/file.py:62
+msgid "aborted"
+msgstr ""
+
+#: src/pyload/core/manager/file.py:63
+msgid "not possible"
+msgstr ""
+
+#: src/pyload/core/manager/file.py:64
+msgid "missing"
+msgstr ""
+
+#: src/pyload/core/manager/file.py:65
+msgid "file mismatch"
+msgstr ""
+
+#: src/pyload/core/manager/file.py:66
+msgid "occupied"
+msgstr ""
+
+#: src/pyload/core/manager/file.py:67 src/pyload/core/thread/decrypter.py:127
+msgid "decrypting"
+msgstr ""
+
+#: src/pyload/core/manager/file.py:68
+msgid "processing"
+msgstr ""
+
+#: src/pyload/core/manager/file.py:69
+msgid "custom"
+msgstr ""
+
+#: src/pyload/core/manager/file.py:70
+msgid "unknown"
+msgstr ""
+
+#: src/pyload/core/manager/file.py:484
+msgid "Package finished: {0}"
+msgstr ""
+
+#: src/pyload/core/manager/plugin.py:208
+msgid "Error importing {0}: {1}"
+msgstr ""
+
+#: src/pyload/core/manager/plugin.py:222
+msgid "Plugin does not define class '{0}'"
+msgstr ""
+
+#: src/pyload/core/manager/remote.py:39
+msgid "Starting {0}: {1}:{2}"
+msgstr ""
+
+#: src/pyload/core/manager/remote.py:42
+msgid "Failed loading backend {0} | {1}"
+msgstr ""
+
+#: src/pyload/core/manager/transfer.py:160
+msgid "Not enough space left on device"
+msgstr ""
+
+#: src/pyload/core/manager/transfer.py:238
+msgid "Plugin '{0}' does not exists"
+msgstr ""
+
+#: src/pyload/core/manager/transfer.py:256
+msgid "Plugin type '{0}' can't be used for downloading"
+msgstr ""
+
+#: src/pyload/core/manager/transfer.py:276
+msgid "Reconnect script not found!"
+msgstr ""
+
+#: src/pyload/core/manager/transfer.py:281
+msgid "Starting reconnect"
+msgstr ""
+
+#: src/pyload/core/manager/transfer.py:301
+msgid "Failed executing reconnect script!"
+msgstr ""
+
+#: src/pyload/core/manager/transfer.py:312
+msgid "Reconnect not successful"
+msgstr ""
+
+#: src/pyload/core/manager/transfer.py:315
+msgid "Reconnected, new IP: {0}"
+msgstr ""
+
+#: src/pyload/core/network/account.py:85
+msgid "Invalid config: {0}"
+msgstr ""
+
+#: src/pyload/core/network/account.py:166
+#: src/pyload/core/network/account.py:172
+msgid "Could not login with account {0} | {1}"
+msgstr ""
+
+#: src/pyload/core/network/account.py:167
+msgid "Wrong Password"
+msgstr ""
+
+#: src/pyload/core/network/account.py:238
+msgid "Get Account Info for {0}"
+msgstr ""
+
+#: src/pyload/core/network/account.py:248
+msgid "Error: {0}"
+msgstr ""
+
+#: src/pyload/core/network/account.py:316
+msgid "Your Time {0} has a wrong format, use: 1:22-3:44"
+msgstr ""
+
+#: src/pyload/core/network/account.py:341
+msgid "Account {0} has not enough traffic, checking again in 30min"
+msgstr ""
+
+#: src/pyload/core/network/account.py:352
+msgid "Account {0} is expired, checking again in 1h"
+msgstr ""
+
+#: src/pyload/core/network/account.py:376
+msgid "Login with {0}"
+msgstr ""
+
+#: src/pyload/core/network/addon.py:161
+msgid "Error executing addon: {0}"
+msgstr ""
+
+#: src/pyload/core/network/base.py:353
+msgid ""
+"Pil and tesseract not installed and no Client connected for captcha "
+"decrypting"
+msgstr ""
+
+#: src/pyload/core/network/base.py:359
+msgid "No captcha result obtained in appropriate time"
+msgstr ""
+
+#: src/pyload/core/network/crypter.py:309
+#: src/pyload/core/network/crypter.py:356 src/pyload/core/network/hoster.py:309
+#: src/pyload/core/network/hoster.py:356
+msgid "Setting User and Group failed: {0}"
+msgstr ""
+
+#: src/pyload/core/network/crypter.py:334 src/pyload/core/network/hoster.py:334
+msgid "{0} saved as {1}"
+msgstr ""
+
+#: src/pyload/core/thread/addon.py:83
+msgid "An Error occurred"
+msgstr ""
+
+#: src/pyload/core/thread/decrypter.py:55
+msgid "Decrypted {0:d} links into package {1}"
+msgstr ""
+
+#: src/pyload/core/thread/decrypter.py:75
+msgid "Decrypting {0} links"
+msgstr ""
+
+#: src/pyload/core/thread/decrypter.py:102
+msgid "Decrypting aborted"
+msgstr ""
+
+#: src/pyload/core/thread/decrypter.py:105
+msgid "Decrypting failed"
+msgstr ""
+
+#: src/pyload/core/thread/download.py:48 src/pyload/core/thread/download.py:151
+msgid "Download aborted: {0}"
+msgstr ""
+
+#: src/pyload/core/thread/download.py:61
+msgid "Download restarted: {0} | {1}"
+msgstr ""
+
+#: src/pyload/core/thread/download.py:66
+msgid "Plugin {0} is missing a function"
+msgstr ""
+
+#: src/pyload/core/thread/download.py:74 src/pyload/core/thread/download.py:106
+msgid "Download is temporary offline: {0}"
+msgstr ""
+
+#: src/pyload/core/thread/download.py:75
+msgid "Internal Server Error"
+msgstr ""
+
+#: src/pyload/core/thread/download.py:87 src/pyload/core/thread/download.py:110
+msgid "Download failed: {0} | {1}"
+msgstr ""
+
+#: src/pyload/core/thread/download.py:102
+msgid "Download is offline: {0}"
+msgstr ""
+
+#: src/pyload/core/thread/download.py:120
+msgid "Download skipped: {0} due to {1}"
+msgstr ""
+
+#: src/pyload/core/thread/download.py:136
+msgid "Couldn't connect to host or connection reset, waiting 1 minute and retry"
+msgstr ""
+
+#: src/pyload/core/thread/download.py:160
+msgid "pycurl error {0}: {1}"
+msgstr ""
+
+#: src/pyload/core/thread/download.py:179
+msgid "Download starts: {0}"
+msgstr ""
+
+#: src/pyload/core/thread/download.py:186
+msgid "Download finished: {0}"
+msgstr ""
+
+#: src/pyload/core/thread/info.py:73
+msgid "online check"
+msgstr ""
+
+#: src/pyload/core/thread/info.py:135
+msgid "Checking {0:d} links"
+msgstr ""
+
+#: src/pyload/core/thread/info.py:195
+msgid "Info Fetching for {0} failed | {1}"
+msgstr ""
+
+#: src/pyload/core/thread/plugin.py:120
+msgid "Debug Report written to file {0}"
+msgstr ""
+

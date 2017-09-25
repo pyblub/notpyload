@@ -1,0 +1,75 @@
+# English translations for pyload.webui.
+# Copyright (C) 2017 ORGANIZATION
+# This file is distributed under the same license as the pyload.webui
+# project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: pyload.webui 0.5.3\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2017-08-08 23:29+0100\n"
+"PO-Revision-Date: 2017-08-08 23:29+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: src/pyload/webui/webserver.py:62
+msgid "SSL certificates not found"
+msgstr ""
+
+#: src/pyload/webui/webserver.py:66
+msgid "WebUI built is not available"
+msgstr ""
+
+#: src/pyload/webui/webserver.py:68
+msgid "Running webui in development mode"
+msgstr ""
+
+#: src/pyload/webui/webserver.py:86
+msgid "Failed starting webserver: {0}"
+msgstr ""
+
+#: src/pyload/webui/webserver.py:123
+msgid "Failed importing webserver: {0}"
+msgstr ""
+
+#: src/pyload/webui/webserver.py:143
+msgid "This server offers no SSL, please consider using threaded instead"
+msgstr ""
+
+#: src/pyload/webui/webserver.py:157
+msgid "Starting {0} webserver: {1}:{2:d}"
+msgstr ""
+
+#: src/pyload/webui/app/scripts/helpers/formatsize.js:13
+msgid "not available"
+msgstr ""
+
+#: src/pyload/webui/app/scripts/helpers/formatsize.js:15
+#: src/pyload/webui/app/scripts/helpers/formattime.js:10
+msgid "unlimited"
+msgstr ""
+
+#: src/pyload/webui/app/scripts/helpers/formattime.js:8
+#: src/pyload/webui/app/scripts/helpers/linkstatus.js:11
+msgid "unknown"
+msgstr ""
+
+#: src/pyload/webui/app/scripts/helpers/linkstatus.js:7
+msgid "online"
+msgstr ""
+
+#: src/pyload/webui/app/scripts/helpers/linkstatus.js:9
+msgid "offline"
+msgstr ""
+
+#: src/pyload/webui/app/scripts/views/input/clickinput.js:21
+msgid "Please click on the right position in the captcha"
+msgstr ""
+
